@@ -6,6 +6,10 @@ This non-commercial, fanmade project ports the obscure Famciom JRPG, LaSalle Ish
 
 As for its completion status, the Stardom Warriors version of the game is 100% complete, including the option to play with new bonus content. The Japanese version is roughly 80-90% complete, with only some cutscene dialogue left to be translated. Both version of the game feature upgrades such as the ability to "sprint" on the overworld, a dedicated saving system replacing passwords, minor UI improvements to allow more text on-screen, and more. 
 
+The below video is a short demonstration of the PC port (on the left) and original NES game (on the right) running side-by-side. The audio only recorded from the new project, and the removal of passwords and random elements of the game make the two games not run in perfect sync.
+
+[![Demonstration](https://raw.githubusercontent.com/Polinym/LaSalle-Ishii-s-Childs-Quest-PC/refs/heads/main/thumbnail.PNG)](https://github.com/Polinym/LaSalle-Ishii-s-Childs-Quest-PC/blob/main/demo.mp4)
+
 The project uses entirely original code with art assets either directly from the original ROM or based on emulated screenshots in FCEUX.
 
 More detailed information about the project can be found on the fangame's Itch.io page: https://polinym.itch.io/childs-quest
