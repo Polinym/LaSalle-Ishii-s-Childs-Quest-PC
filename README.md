@@ -10,8 +10,6 @@ The below video is a short demonstration of the PC port (on the left) and origin
 
 [![Video Title](https://raw.githubusercontent.com/Polinym/LaSalle-Ishii-s-Childs-Quest-PC/refs/heads/main/thumbnail.PNG)](https://youtu.be/gsNH_OV3r_0)
 
-https://youtu.be/gsNH_OV3r_0
-
 The project uses entirely original code with art assets either directly from the original ROM or based on emulated screenshots in FCEUX.
 
 More detailed information about the project can be found on the fangame's Itch.io page: https://polinym.itch.io/childs-quest
