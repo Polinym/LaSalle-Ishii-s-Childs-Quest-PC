@@ -1,0 +1,1 @@
+scr_gate_set(rm_swamp, 2, DIR_DOWN);

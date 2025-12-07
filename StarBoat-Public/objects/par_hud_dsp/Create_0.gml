@@ -1,0 +1,13 @@
+txt = "";
+txt_wnd = "";
+title = "";
+font = obj_ram.font;
+font_wnd = obj_ram.font_wnd;
+font_wnd_yellow = obj_ram.font_wnd_yellow;
+font_wnd_red = obj_ram.font_wnd_red;
+pos_x = 8; pos_y = 8;
+tx = 0;
+txt_x = 8;
+txt_y = 16;
+depth = -300;
+jpn = obj_ram.jpn;

@@ -1,0 +1,10 @@
+dir = DOWN;
+image_speed = 0;
+ani_count = 0; ani_wait = 15;
+ani_frame = 0;
+active = true;
+line = 0;
+secret_line = -1;
+jpn = obj_ram.jpn;
+bonus = obj_ram.bonus;
+secret = false;

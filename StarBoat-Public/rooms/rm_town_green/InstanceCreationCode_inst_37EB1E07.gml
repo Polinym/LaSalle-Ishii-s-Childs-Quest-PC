@@ -1,0 +1,1 @@
+scr_set_shop(SHOP_FOOD, [food_Burger, food_Salmon, food_Curry, food_Caviar]);

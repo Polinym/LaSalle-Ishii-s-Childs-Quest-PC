@@ -1,0 +1,1 @@
+scr_cuts_set(BCK_HOUSE, 109, spr_enm_Eldrick, false);

@@ -1,0 +1,1 @@
+obj_ram.in_city = true;

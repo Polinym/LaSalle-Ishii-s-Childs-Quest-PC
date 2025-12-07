@@ -1,0 +1,1 @@
+scr_set_shop(SHOP_ITEM, [item_WaterBottle, item_HealthyDrink, item_DoubleBurger, item_WhitePaint]);

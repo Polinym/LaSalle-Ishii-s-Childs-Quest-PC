@@ -1,0 +1,1 @@
+scr_npc_bonus(114, DOWN);

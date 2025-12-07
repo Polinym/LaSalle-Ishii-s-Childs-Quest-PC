@@ -1,0 +1,9 @@
+bck = BCK_STORE;
+line = 0;
+port = 0;
+ui = false;
+take = -1;
+index = -1;
+arg = -1;
+hall = -1;
+bgm = -1;

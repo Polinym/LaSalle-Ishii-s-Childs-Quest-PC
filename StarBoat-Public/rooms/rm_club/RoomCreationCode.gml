@@ -1,0 +1,1 @@
+scr_set_enc(1, enm_Model, enm_Jerkface, -1, -1);

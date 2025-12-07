@@ -1,0 +1,1 @@
+scr_secret_money(100);

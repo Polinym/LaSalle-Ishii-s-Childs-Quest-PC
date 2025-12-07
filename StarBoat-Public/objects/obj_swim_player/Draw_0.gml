@@ -1,0 +1,1 @@
+draw_sprite_part(sprite_index, image_index, 0, 0, 16, 8, x, y);

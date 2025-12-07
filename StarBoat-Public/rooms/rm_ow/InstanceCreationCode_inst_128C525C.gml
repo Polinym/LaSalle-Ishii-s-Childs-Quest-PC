@@ -1,0 +1,1 @@
+scr_gate_set(rm_town_3, 1, DIR_DOWN);

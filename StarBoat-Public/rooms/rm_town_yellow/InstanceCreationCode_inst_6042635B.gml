@@ -1,0 +1,1 @@
+scr_npc_set(22, RIGHT);

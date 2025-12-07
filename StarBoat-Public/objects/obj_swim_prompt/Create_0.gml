@@ -1,0 +1,10 @@
+wait_count = 0;
+wait_wait = 100;
+font = obj_ram.font;
+font_wnd = obj_ram.font_wnd;
+txt_wnd = scr_draw_menu(16, 1.5);
+txt = "PRESS A TO SWIM!";
+jpn = obj_ram.jpn;
+on = false;
+over = false;
+won = false;

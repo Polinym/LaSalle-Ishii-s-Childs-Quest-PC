@@ -1,0 +1,1 @@
+type = SECRET_PAINT;

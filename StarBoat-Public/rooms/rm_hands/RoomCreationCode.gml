@@ -1,0 +1,1 @@
+scr_set_enc(1, enm_Skyjelly, enm_ShyHare, -1, -1);

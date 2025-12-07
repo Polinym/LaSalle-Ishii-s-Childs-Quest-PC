@@ -1,0 +1,12 @@
+event_inherited();
+title = "ACTS";
+title_offset = 16;
+txt = " CHAT## SKIT## SONG";
+scr_hud_ini(6, 3);
+pos_x = 16; pos_y = 136;
+pos = 0;
+scr_msg("Well?");
+obj_text.display = true;
+reading = true;
+held = true;
+do_chat = false;

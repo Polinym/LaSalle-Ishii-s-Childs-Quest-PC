@@ -1,0 +1,1 @@
+scr_gate_set(room, 3, DOWN);

@@ -1,0 +1,13 @@
+hp = 1;
+atk = 0;
+def = 0;
+pop = 0;
+money = 0;
+stress = 0;
+ecchi = 0;
+hex = false;
+flash_count = 0;
+flash = false;
+ini = true;
+ani_count = 0;
+ani_wait = 4;

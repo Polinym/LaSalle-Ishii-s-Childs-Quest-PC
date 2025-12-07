@@ -1,0 +1,1 @@
+scr_secret_item(item_ButterSword);

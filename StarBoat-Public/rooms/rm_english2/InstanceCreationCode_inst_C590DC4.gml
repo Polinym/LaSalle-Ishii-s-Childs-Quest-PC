@@ -1,0 +1,1 @@
+scr_cuts_fetch(8);

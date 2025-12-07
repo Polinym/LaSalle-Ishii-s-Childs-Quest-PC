@@ -1,0 +1,1 @@
+sprite_index = scr_john_spr();

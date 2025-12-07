@@ -1,0 +1,1 @@
+scr_set_enc(1, enm_LilBrat, enm_Parawing, enm_Dummie, enm_Wobbler);

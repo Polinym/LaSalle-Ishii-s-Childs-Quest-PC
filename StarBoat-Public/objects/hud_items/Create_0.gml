@@ -1,0 +1,43 @@
+event_inherited();
+title = "";
+title_offset = 16;
+scr_hud_ini(22, 4);
+update = true;
+txt_money = "";
+toss_mode = false;
+pos_x = 40+8;
+pos_y = 136;
+depth = -320;
+x_pos = 0;
+y_pos = 0;
+items = obj_ram.items;
+item_count = obj_ram.item_count;
+ref_item_names = obj_ram.item_names;
+paints = obj_ram.paints;
+held = false;
+item_names = ["", "", "", "", "", "", ""];
+in_btl = (room == rm_btl);
+has_boats = false;
+has_paints = false;
+has_suits = scr_has_suits() and (not in_btl);
+suits = obj_ram.suits;
+last_row = "";
+paint_mode = false;
+prompt_mode = false;
+suit_mode = false;
+to_mode = false;
+to_pos = 0;
+item = 0;
+slot = -1;
+prompt_pos = 0;
+fail = false;
+bonus = obj_ram.bonus;
+john = obj_ram.party[0];
+close_for_move = false;
+if (in_btl)
+{
+	depth += -200;	
+}
+use_move = false;
+reading = false;
+jpn = obj_ram.jpn;

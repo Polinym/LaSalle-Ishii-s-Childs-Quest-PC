@@ -1,0 +1,11 @@
+pos = 0;
+last_pos = 2;
+image_speed = 0;
+image_index = 0;
+update = true;
+start_x = x;
+start_y = y;
+held = false;
+delay = false;
+can_load = file_exists(scr_save_name());
+cooldown = 8;

@@ -1,0 +1,1 @@
+scr_gate_set(rm_ow, 39, DOWN);

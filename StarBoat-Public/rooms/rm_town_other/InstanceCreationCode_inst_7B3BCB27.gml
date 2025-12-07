@@ -1,0 +1,1 @@
+scr_set_shop(SHOP_EQUIP, [mic_Singer, dress_Sparkly, shoes_Emerald, makeup_Singer]);

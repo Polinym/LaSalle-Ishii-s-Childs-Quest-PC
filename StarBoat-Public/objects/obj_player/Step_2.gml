@@ -1,0 +1,1 @@
+cam.x = x; cam.y = y+8;
